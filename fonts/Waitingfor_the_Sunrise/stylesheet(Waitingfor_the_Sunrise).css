@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Waiting for the Sunrise';
+    src: url('WaitingfortheSunrise.eot');
+    src: url('WaitingfortheSunrise.eot?#iefix') format('embedded-opentype'),
+        url('WaitingfortheSunrise.woff2') format('woff2'),
+        url('WaitingfortheSunrise.woff') format('woff'),
+        url('WaitingfortheSunrise.ttf') format('truetype'),
+        url('WaitingfortheSunrise.svg#WaitingfortheSunrise') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
